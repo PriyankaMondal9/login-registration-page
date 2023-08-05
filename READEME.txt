@@ -1,0 +1,7 @@
+You need to create a website that will have one simple login functionality, one simple registration functionality, a log out functionality, and a simple dashboard.
+The dashboard needs to show a text Hello <username> and a Logout button, that's it. It will be your landing page.
+User can only enter in the dashboard if he is logged in, otherwise, he will be automatically redirected to the login page.
+On the login page, there will be a form for login and a registration link.
+On the registration page, there will be a simple form for registration and a link for the login page.
+Once the user is logged in or registered, he needs to redirect to the dashboard (landing) page.
+This is the code information
